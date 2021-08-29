@@ -2,8 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 LO3 GitHub Related
-ZCZC W00 10 L04 Github Pages related
-ZCZC W00 45 L06 References related (reading W00 slide)
+ZCZC W00 10 L04 Github Pages related (Assignment #03)
+ZCZC W00 5 L11 Assignment #01
+ZCZC W00 5 L12 Assignment #02
+ZCZC W00 3 L14 Assignment #04
+ZCZC W00 30 L06 References related (reading W00 slide)
 ZCZC W00 20 L04 Styling my Github Page
 ZCZC W00 15 L15 Assignment #05 (Reading the given article)
 ZCZC W00 135 L06 Reading Chapter 1.1
