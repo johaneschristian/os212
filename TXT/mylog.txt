@@ -7,3 +7,4 @@ ZCZC W00 45 L06 References related (reading W00 slide)
 ZCZC W00 20 L04 Styling my Github Page
 ZCZC W00 15 L15 Assignment #05 (Reading the given article)
 ZCZC W00 135 L06 Reading Chapter 1.1
+ZCZC W00 60 L06 Reading Chapter 1.2
