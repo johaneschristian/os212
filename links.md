@@ -1,6 +1,6 @@
 ---
 layout: "layout"
-premalink: /LINKS/
+permalink: /LINKS/
 ---
 # Links
 | [Home](https://johaneschristian.github.io/os212) 
