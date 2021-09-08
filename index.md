@@ -3,3 +3,4 @@
 ## Important Links
 1. [Repository](https://github.com/johaneschristian/os212/)
 2. [Log](https://johaneschristian.github.io/os212/TXT/mylog.txt)
+3. [Links](https://johaneschristian.github.io/os212/LINKS/links.md)
