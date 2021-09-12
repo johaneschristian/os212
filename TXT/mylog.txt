@@ -20,6 +20,7 @@ ZCZC W01 60 L12 Assignment #02, Installing debian on the virtualbox
 ZCZC W01 45 L13 Assignment #03, Watching videos on command line interface, awk,and regex
 ZCZC W01 120 L14 Assignment #04
 ZCZC W01 15 L15 Assignment #05
-ZCZC W01 10 L06 Creating Links page
-ZCZC W01 5 L07 Updating mylog.txt
-ZCZC W01 20 L08 Watching given youtube video on awk
+ZCZC W01 10 L16 Assignment #06, Creating Links page
+ZCZC W01 5 L17 Assignment #07, Updating mylog.txt
+ZCZC W01 20 L18 Assignment #08, Watching given youtube video on awk
+ZCZC W01 180 L19 Assignment #09, Reading Chapter 1.11, 2.1, 2.2
