@@ -25,3 +25,4 @@ ZCZC W01 5 L17 Assignment #07, Updating mylog.txt
 ZCZC W01 20 L18 Assignment #08, Watching given youtube video on awk
 ZCZC W01 180 L19 Assignment #09, Reading Chapter 1.11, 2.1, 2.2
 ZCZC W01 20 L02 Wednesday zoom meeting
+ZCZC W01 120 L19 Assignment #09, Reading Chapter 2.3 regarding system call
