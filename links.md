@@ -10,3 +10,6 @@ This link contains a youtube video that discusses the basics of the sed shell co
 
 2. [Linux Basic Commands](https://linoxide.com/essential-linux-basic-commands/)\
 This article discusses the usage of 40 Basic Linux Commands. It was the first link that I visit after completing the virtualBox setup. The link is equipped with complete description of the command along with the command example with its expected output.
+
+3. [C Programming in 1 Hour](https://www.youtube.com/watch?v=N349SLNdTwg)\
+Can you learn and master C in 1 hour? I don't think so and neither can I. Done in less than an hour, the video discusses upon the basic syntax of the C programming language. Although it is not provided in a great depth, this video does serve as a good starting point as well as temporary alternative if you feel overwhelmed with the numerous demo programs provided in the Sistem Operasi Repository.
