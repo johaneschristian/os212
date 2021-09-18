@@ -32,4 +32,6 @@ ZCZC W02 10 L16 Assignment 06, Importing ospubkey.txt key
 ZCZC W02 5 L17 Assignment 07, signing OS public key
 ZCZC W02 5 L18 Assignment 08 Exporting mypubkey.txt
 ZCZC W02 10 L09 Updating mylog.txt
-ZCZC W02 10 L09 Completing Assignment 13 
+ZCZC W02 10 L09 Completing Assignment 13
+ZCZC W02 65 L12 Tried and modified c program demos (program 0 to 5)
+ZCZC W02 5 L19 Added a link to /LINKS/
