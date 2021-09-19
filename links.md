@@ -13,3 +13,9 @@ This article discusses the usage of 40 Basic Linux Commands. It was the first li
 
 3. [C Programming in 1 Hour](https://www.youtube.com/watch?v=N349SLNdTwg)\
 Can you learn and master C in 1 hour? I don't think so and neither can I. Done in less than an hour, the video discusses upon the basic syntax of the C programming language. Although it is not provided in a great depth, this video does serve as a good starting point as well as temporary alternative if you feel overwhelmed with the numerous demo programs provided in the Sistem Operasi Repository.
+
+4. [Understanding GPG Keys](https://www.youtube.com/watch?v=DMGIlj7u7Eo)\
+The 2nd week started with generating a GnuPG Key Pair. Generating the key itself is quite simple, as we are provided with a step-by-step tutorial. Nonetheless, understanding what it is, how it works, or why do we need it might require an extended research through a variety of other resources. This video is one of them as it discusses upon this matter along with the key's usage.
+
+5. [Cybersecurity Crash Course](https://www.youtube.com/watch?v=bPVaOlJ6ln0)\
+As stated in its title, this video provides an introduction and basic understanding of cybersecurity. I found this video to be interesting as it is presented lightly, equipped with several animations, along with real-life examples.
