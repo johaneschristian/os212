@@ -19,3 +19,6 @@ The 2nd week started with generating a GnuPG Key Pair. Generating the key itself
 
 5. [Cybersecurity Crash Course](https://www.youtube.com/watch?v=bPVaOlJ6ln0)\
 As stated in its title, this video provides an introduction and basic understanding of cybersecurity. I found this video to be interesting as it is presented lightly, equipped with several animations, along with real-life examples.
+
+6. [C Input and Output](https://www.programiz.com/c-programming/c-input-output)\
+The link contains explanation on printf and scanf, the two functions responsible for displaying output to the user and taking input from the user respectively. The article discusses upon the different ways on using both functions. For instance, how does reading a character differs from reading an integer or a float, or can we take multiple values in a single prompt to the user.
