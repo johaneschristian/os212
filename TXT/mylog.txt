@@ -40,3 +40,4 @@ ZCZC W02 5 L09 Updating mylog.txt
 ZCZC W02 120 L11 Assignment 01, reading chapter 16
 ZCZC W02 120 L02 Monday and Wednesday Zoom Meeting
 ZCZC W02 45 L13 Assignment 03, watching parts of the given video on the introduction to Cyber Security
+ZCZC W02 180 L11 Continue reading chapter 16 and 17
