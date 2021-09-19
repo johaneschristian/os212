@@ -35,3 +35,5 @@ ZCZC W02 10 L09 Updating mylog.txt
 ZCZC W02 10 L09 Completing Assignment 13
 ZCZC W02 65 L12 Tried and modified c program demos (program 0 to 5)
 ZCZC W02 5 L19 Added a link to /LINKS/
+ZCZC W02 30 L20 Reviewing peer links
+ZCZC W02 L09 Updating mylog.txt
