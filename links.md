@@ -28,3 +28,6 @@ The video introduces the basic concept of File System along with directory trees
 
 8. [Attributes of File Systems](https://www.youtube.com/watch?v=gSks2GpUx3Q)\
 As stated on the title, the video started by defining a file system followed by explaining the attribute of file systems. The video is a great complementer towards the topic discussed in chapter 13.
+
+9. [What is Memory-Mapped Files](https://www.youtube.com/watch?v=nPIhoJ6lKeQ)\
+The video explains the concept of memory-mapped files. It discusses how does a file is saved in the address space using the file operation such as Open, Read, Write, Seek, and Close. It also explains how changes done while opening the file (physical pages) is written back to the disk. 
