@@ -22,3 +22,9 @@ As stated in its title, this video provides an introduction and basic understand
 
 6. [C Input and Output](https://www.programiz.com/c-programming/c-input-output)\
 The link contains explanation on printf and scanf, the two functions responsible for displaying output to the user and taking input from the user respectively. The article discusses upon the different ways on using both functions. For instance, how does reading a character differs from reading an integer or a float, or can we take multiple values in a single prompt to the user.
+
+7. [File Systems](https://www.youtube.com/watch?v=mzUyMy7Ihk0)\
+The video introduces the basic concept of File System along with directory trees, stressing the concept of contents and structures of a directory. I found this video to be interesting as it started by demonstrating the real life scenario (such as file searching). 
+
+8. [Attributes of File Systems](https://www.youtube.com/watch?v=gSks2GpUx3Q)\
+As stated on the title, the video started by defining a file system followed by explaining the attribute of file systems. The video is a great complementer towards the topic discussed in chapter 13.
