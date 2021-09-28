@@ -51,3 +51,7 @@ ZCZC W03 60 L13 Assignment 3
 ZCZC W03 20 L16 Assignment 6
 ZCZC W03 5 L18 Updating mylog.txt
 ZCZC W03 30 L17 Reviewing peer links
+ZCZC W04 100 L02 Monday Zoom Meeting
+ZCZC W04 05 L14 Assignment 4
+ZCZC W04 30 L15 Assignment 5
+ZCZC W04 10 L18 Assignment 8
