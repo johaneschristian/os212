@@ -34,3 +34,6 @@ The video explains the concept of memory-mapped files. It discusses how does a f
 
 10. [What is Use After Free Vulnerability? -- Thingy Animation](https://www.youtube.com/watch?v=bSR-RDdAwYg)\
 This video explains the concept of UAF Vulnerability. Most of the article and video available online are rather complicated, although they provide a more depth understanding of the topic. When it comes to a TL;DR situation, I found this video to be interesting as it uses simple animations, it refers itself as 'thingy' animations, hence making the topic easier to understand.
+
+11. [The Instruction Cycle](https://www.youtube.com/watch?v=Z5JC9Ve1sfI)\
+The concept of Instruction Cycle is discussed in the introduction of memory management. This video helps me to refresh my understanding on the concept that was previously discussed in the Introduction to Computer Organization class. The importance of instruction cycle concept understanding stresses the fact that all operations are done in the CPU, such that all operands must be brought to the CPU register before execution.
