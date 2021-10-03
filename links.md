@@ -40,5 +40,5 @@ The concept of Instruction Cycle is discussed in the introduction of memory mana
 
 12. [Difference Between char s[] and char s*](https://www.geeksforgeeks.org/whats-difference-between-char-s-and-char-s-in-c/)\
 This article discusses the difference between char s[] (array) and pointers. This article helped me to understand better the usage of pointers as well as the validity of performing certain actions involving either one of the statements.
-13. [Little Endian vs Big Endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian#:~:text=Big%2Dendian%20is%20an%20order,the%20sequence)%20is%20stored%20first.)\
+13. [Little Endian vs Big Endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian#)\
 The article discusses the simple yet sometimes tricky topic of endianness. It states the definition of each endianness type, as well as the uses of both little endian and big endian addressing technique.
