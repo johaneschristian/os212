@@ -37,3 +37,6 @@ This video explains the concept of UAF Vulnerability. Most of the article and vi
 
 11. [The Instruction Cycle](https://www.youtube.com/watch?v=Z5JC9Ve1sfI)\
 The concept of Instruction Cycle is discussed in the introduction of memory management. This video helps me to refresh my understanding on the concept that was previously discussed in the Introduction to Computer Organization class. The importance of instruction cycle concept understanding stresses the fact that all operations are done in the CPU, such that all operands must be brought to the CPU register before execution.
+
+12. [Difference Between char s[] and char s*](https://www.geeksforgeeks.org/whats-difference-between-char-s-and-char-s-in-c/)\
+This article discusses the difference between char s[] (array) and pointers. This article helped me to understand better the usage of pointers as well as the validity of performing certain actions involving either one of the statements.
