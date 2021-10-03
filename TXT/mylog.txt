@@ -58,3 +58,8 @@ ZCZC W04 10 L18 Assignment 8
 ZCZC W04 30 L02 Wednesday Zoom Meeting
 ZCZC W04 5 L16 Updating bookmark links
 ZCZC W04 120 L13 Trying Previous MidTerm Problem
+ZCZC W04 240 L11 Reading Chapter 9
+ZCZC W04 30 L12 Trying Demos
+ZCZC W04 30 L17 Reviewing Peer Links
+ZCZC W04 10 L18 Updating Log
+ZCZC W04 5 L19 Submitting Week 04 Assignment
