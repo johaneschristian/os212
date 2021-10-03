@@ -31,3 +31,6 @@ As stated on the title, the video started by defining a file system followed by 
 
 9. [What is Memory-Mapped Files](https://www.youtube.com/watch?v=nPIhoJ6lKeQ)\
 The video explains the concept of memory-mapped files. It discusses how does a file is saved in the address space using the file operation such as Open, Read, Write, Seek, and Close. It also explains how changes done while opening the file (physical pages) is written back to the disk. 
+
+10. [What is Use After Free Vulnerability?](https://www.youtube.com/watch?v=bSR-RDdAwYg)\
+This video explains the concept of UAF Vulnerability. Most of the article and video available online are rather complicated, although they provide a more depth understanding of the topic. When it comes to a TL;DR situation, I found this video to be interesting as it uses simple animations, it refers itself as 'thingy' animations, hence making the topic easier to understand.
