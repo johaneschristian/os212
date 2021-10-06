@@ -65,3 +65,4 @@ ZCZC W04 10 L18 Updating Log
 ZCZC W04 5 L19 Submitting Week 04 Assignment
 ZCZC W05 100 L02 Monday Zoom Meeting
 ZCZC W05 90 L14 Assignment 4
+ZCZC W05 56 L02 Wednesday Zoom Meeting
