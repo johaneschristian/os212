@@ -63,3 +63,5 @@ ZCZC W04 30 L12 Trying Demos
 ZCZC W04 30 L17 Reviewing Peer Links
 ZCZC W04 10 L18 Updating Log
 ZCZC W04 5 L19 Submitting Week 04 Assignment
+ZCZC W05 100 L02 Monday Zoom Meeting
+ZCZC W05 90 L14 Assignment 4
