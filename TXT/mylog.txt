@@ -71,3 +71,5 @@ ZCZC W05 60 L13 Trying previous midterm problem
 ZCZC W05 10 L18 Updating Log
 ZCZC W05 20 L19 Submitting assignment (compress into tar and encrypted)
 ZCZC W05 20 L12 Trying demos
+ZCZC W05 30 L17 Reviewing Peer Links
+ZCZC W05 30 L15 Updated bookmark links 
