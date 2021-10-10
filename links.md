@@ -42,3 +42,12 @@ The concept of Instruction Cycle is discussed in the introduction of memory mana
 This article discusses the difference between char s[] (array) and pointers. This article helped me to understand better the usage of pointers as well as the validity of performing certain actions involving either one of the statements.
 13. [Little Endian vs Big Endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian#)\
 The article discusses the simple yet sometimes tricky topic of endianness. It states the definition of each endianness type, as well as the uses of both little endian and big endian addressing technique.
+
+14. [Page Replacement Algorithm](https://www.youtube.com/watch?v=FWoMSiMep80)\
+This video is complementary to the materials discussed in class regarding the ways of replacing a page when there exists a conflict, such as the FIFO, LRU, and Optimal. Aside from discussing the algorithms, it also provides an example of usage for each of the replacement algorithm.
+
+15. [Understanding Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)\
+This video goes into great detail on virtual memory. It began by contrasting system architectures that implement and do not implement virtual memory. It explores the issues that necessitate virtual memory's existence. Furthermore, it discusses how to deal with problems caused by the use of virtual memory, such as memory holes.
+
+16. [popen() as Discussed in the Forum](https://www.ibm.com/docs/en/zos/2.4.0?topic=functions-popen-initiate-pipe-stream-from-process)\
+This resource aid me in answering the questions discussed on scele. It discusses the use of popen() function, the different modes that can be applied, along with the impact on the generated pipe between the calling program and the executed command. The IBM documentation on this matter is provided thoroughly and hence ease the reader in understanding the topic discussed. 
