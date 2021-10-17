@@ -51,3 +51,9 @@ This video goes into great detail on virtual memory. It began by contrasting sys
 
 16. [popen() as Discussed in the Forum](https://www.ibm.com/docs/en/zos/2.4.0?topic=functions-popen-initiate-pipe-stream-from-process)\
 This resource aid me in answering the questions discussed on scele. It discusses the use of popen() function, the different modes that can be applied, along with the impact on the generated pipe between the calling program and the executed command. The IBM documentation on this matter is provided thoroughly and hence ease the reader in understanding the topic discussed. 
+
+17. [May the fork() be with you](https://www.youtube.com/watch?v=PwxTbksJ2fo)\
+We started on discussing the fork() system class in the 6th Week Class. It is indeed a little bit confusing for me to understand how fork() perform duplication on a process, creating what is known to be a parent and child processes. An important essence on the demo discussed is the fact that fork() do have a return value, indicating the status, i.e. fork() < 0 represents an error, fork() == 0 represents a child process, and fork() > 0 represents a parent process. The video discusses these materials and beyond on great details. Hence, it becomes a supplementary resource to aid the fork() materials discussed in class.
+
+18. [Processes Creation](https://www.youtube.com/watch?v=pSW9d3Oaie8)\
+After understanding the concept of fork(), I dig deeper on the concept of process; parent processes and child processes. This video discusses how processes are created. As processes by nature can generate more processes, this video discusses on great detail on how can those processes form a tree-like structure, specifically, this video discusses the process tree of a solaris system. 
