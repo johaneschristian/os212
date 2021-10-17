@@ -72,4 +72,12 @@ ZCZC W05 10 L18 Updating Log
 ZCZC W05 20 L19 Submitting assignment (compress into tar and encrypted)
 ZCZC W05 20 L12 Trying demos
 ZCZC W05 30 L17 Reviewing Peer Links
-ZCZC W05 30 L15 Updated bookmark links 
+ZCZC W05 30 L15 Updated bookmark links
+ZCZC W06 60 L14 Completing Assignment 4
+ZCZC W06 60 L02 Attending Wednesday Zoom Meeting
+ZCZC W06 180 L11 Reading Chapter 3
+ZCZC W06 30 L12 Trying Demos
+ZCZC W06 60 L13 Trying midterm problems
+ZCZC W06 15 L15 Updating bookmark links
+ZCZC W06 10 L18 updating log
+ZCZC W06 10 L19 Submitting Week06 Assignment 
