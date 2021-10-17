@@ -57,3 +57,6 @@ We started on discussing the fork() system class in the 6th Week Class. It is in
 
 18. [Processes Creation](https://www.youtube.com/watch?v=pSW9d3Oaie8)\
 After understanding the concept of fork(), I dig deeper on the concept of process; parent processes and child processes. This video discusses how processes are created. As processes by nature can generate more processes, this video discusses on great detail on how can those processes form a tree-like structure, specifically, this video discusses the process tree of a solaris system. 
+
+19. [Scheduling Algorithms](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE)\
+How does a CPU decides which of the processes available in the queue to be allocated to the CPU's core? This is the question that necessitates scheduling algorithm. The link leads to a playlist by Neso Academy that discusses the various scheduling algorithms, that includes First-Come First-Served, Shortest-Job-First, Round-Robin, Priority(Based), Multi-level queue, and multilevel feedback queue scheduling.
