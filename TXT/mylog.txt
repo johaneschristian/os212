@@ -81,4 +81,5 @@ ZCZC W06 60 L13 Trying midterm problems
 ZCZC W06 15 L15 Updating bookmark links
 ZCZC W06 10 L18 updating log
 ZCZC W06 10 L19 Submitting Week06 Assignment
-ZCZC W06 30 L13 Trying previous midterm problems 
+ZCZC W06 30 L13 Trying previous midterm problems
+ZCZC W06 60 L11 Continue reading chapter 3
