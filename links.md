@@ -63,3 +63,6 @@ How does a CPU decides which of the processes available in the queue to be alloc
 
 20. [open() in c language](https://man7.org/linux/man-pages/man2/open.2.html)\
 This link contains an article discussing the parameters, along with the modes in opening files through the c langguage command. I found this link to be more interesting as it provides a clearer information on the different modes, along with different scenarios of usage. 
+
+21. [fork() sample code and explanation](https://www.youtube.com/watch?v=AnViPd8l6Oc)\
+I found this video to be a great complementer to the previously stated link discussing the material. This video is shorter yet provides a clearer and problem-oriented explanation that helps me better understand the concept. One of the topics discuss is the tree structure resulting from the fork process along with determining the number of child processes created after running a few fork() command.
