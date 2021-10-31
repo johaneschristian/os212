@@ -60,3 +60,6 @@ After understanding the concept of fork(), I dig deeper on the concept of proces
 
 19. [Scheduling Algorithms](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE)\
 How does a CPU decides which of the processes available in the queue to be allocated to the CPU's core? This is the question that necessitates scheduling algorithm. The link leads to a playlist by Neso Academy that discusses the various scheduling algorithms, that includes First-Come First-Served, Shortest-Job-First, Round-Robin, Priority(Based), Multi-level queue, and multilevel feedback queue scheduling.
+
+20. [open() in c language](https://man7.org/linux/man-pages/man2/open.2.html)\
+This link contains an article discussing the parameters, along with the modes in opening files through the c langguage command. I found this link to be more interesting as it provides a clearer information on the different modes, along with different scenarios of usage. 
