@@ -72,3 +72,9 @@ This video explains about the critical section problem that arises in the case o
 
 23. [Deadlocks](https://www.youtube.com/watch?v=eKKc0d7kzww)\
 You can't get a job without experience and you can't get experience without a job. This video discusses the formal definition of deadlocks along with the conditions necessary to reach a deadlock in detail. While discussing each necessary condition, the video provides either an operating-system or a real life example that aids in understanding the conditions discussed.
+
+24. [The Petersons Solution](https://www.youtube.com/watch?v=gYCiTtgGR5Q)\
+The peterson's solution is one of the measures that can be performed to solve the critical section problem. This video explains the algorithm of the peterson's solution, the requirement, and limitations of the algorithm, especially in addressing modern computer architectures as it only supports the critical section problem involving 2 processes.
+
+25. [Semaphores](https://www.tutorialspoint.com/semaphores-in-operating-system)\
+Another approach that can be used to solve the critical section problem is semaphores. Semaphore uses 2 signals, wait (to decrement the semaphore integer variables) and signal (to increment the integer variables) to protect the critical section while occupied by a process. The article provides the basic structure of the wait and signal function, and explains the two types of semaphores, along with the advantages and disadvantages of implementing semaphores in solving the critical section problem.
