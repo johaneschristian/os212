@@ -84,3 +84,9 @@ ZCZC W06 10 L19 Submitting Week06 Assignment
 ZCZC W06 30 L13 Trying previous midterm problems
 ZCZC W06 120 L11 Continue reading chapter 3
 ZCZC W06 30 L17 Reviewing peer links
+ZCZC W07 115 L02 Monday Zoom Meeting
+ZCZC W07 50 L02 Wednesday Zoom Meeting
+ZCZC W07 60 L14 Assignment 4
+ZCZC W07 30 L15 Updating Bookmark Links
+ZCZC W07 10 L18 Updating Log
+ZCZC W07 10 L19 Submit week 07 assignment
