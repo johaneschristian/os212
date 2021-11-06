@@ -78,3 +78,6 @@ The peterson's solution is one of the measures that can be performed to solve th
 
 25. [Semaphores](https://www.tutorialspoint.com/semaphores-in-operating-system)\
 Another approach that can be used to solve the critical section problem is semaphores. Semaphore uses 2 signals, wait (to decrement the semaphore integer variables) and signal (to increment the integer variables) to protect the critical section while occupied by a process. The article provides the basic structure of the wait and signal function, and explains the two types of semaphores, along with the advantages and disadvantages of implementing semaphores in solving the critical section problem.
+
+26. [SCP Command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)\
+One of this week's assignment requires us to perform a copy operation from our guest to the os1.cs.ui.ac.id. This article explains about the scp command that includes the syntax to copy a local file to a remote system and copy a remote file to a local system. 
