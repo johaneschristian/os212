@@ -66,3 +66,9 @@ This link contains an article discussing the parameters, along with the modes in
 
 21. [fork() sample code and explanation](https://www.youtube.com/watch?v=AnViPd8l6Oc)\
 I found this video to be a great complementer to the previously stated link discussing the material. This video is shorter yet provides a clearer and problem-oriented explanation that helps me better understand the concept. One of the topics discuss is the tree structure resulting from the fork process along with determining the number of child processes created after running a few fork() command.
+
+22. [Understanding the Critical Section Problem](https://www.youtube.com/watch?v=eKKc0d7kzww)\
+This video explains about the critical section problem that arises in the case of cooperating (interdependent) processes. I found this video to be helpful in building my understanding as the problem is analogized to an event that occurs in the daily life. In addition, it also explains how critical sections are implemented.
+
+23. [Deadlocks](https://www.youtube.com/watch?v=eKKc0d7kzww)\
+You can't get a job without experience and you can't get experience without a job. This video discusses the formal definition of deadlocks along with the conditions necessary to reach a deadlock in detail. While discussing each necessary condition, the video provides either an operating-system or a real life example that aids in understanding the conditions discussed.
