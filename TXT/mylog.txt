@@ -91,3 +91,4 @@ ZCZC W07 30 L15 Updating Bookmark Links
 ZCZC W07 10 L18 Updating Log
 ZCZC W07 10 L19 Submit week 07 assignment
 ZCZC W07 30 L17 Reviewing peer links
+ZCZC W07 100 L12 Trying Week07 Demos
