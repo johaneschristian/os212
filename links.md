@@ -87,3 +87,6 @@ One of the basic concepts discussed in this week includes the preemptive and non
 
 28. [CPU and I/O Burst Cycle](https://www.youtube.com/watch?v=pVzb3TUcDLo)\
 Another important topic discussed in this chapter relates to CPU and I/O burst cycle. This video explains the two concepts in great detail, stressing how CPU burst and IO burst happens alternately in a process execution. 
+
+29. [Scheduling Algorithms](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/09%3A_CPU_Scheduling/9.2%3A_Scheduling_Algorithms)\
+This article contains the explanation for the various scheduling algorithm. In addition, it also discusses the factors that shall be taken into consideration in deciding the scheduling algorithm to implement for a system. The article presents several operating systems' choice of scheduling algorithm and explains the reason behind the choice.
