@@ -81,3 +81,9 @@ Another approach that can be used to solve the critical section problem is semap
 
 26. [SCP Command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)\
 One of this week's assignment requires us to perform a copy operation from our guest to the os1.cs.ui.ac.id. This article explains about the scp command that includes the syntax to copy a local file to a remote system and copy a remote file to a local system. 
+
+27. [Preemptive and Nonpreemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)\
+One of the basic concepts discussed in this week includes the preemptive and nonpreemptive scheduling. Not only that the article discusses the definition of both concepts, the article also provides their key differences based on multiple parameters such as interrupt, starvation, overhead, and CPU utilization.
+
+28. [CPU and I/O Burst Cycle](https://www.youtube.com/watch?v=pVzb3TUcDLo)\
+Another important topic discussed in this chapter relates to CPU and I/O burst cycle. This video explains the two concepts in great detail, stressing how CPU burst and IO burst happens alternately in a process execution. 
