@@ -101,4 +101,6 @@ ZCZC W08 50 L02 Wednesday Zoom Meeting
 ZCZC W08 30 L16 Updated bookmark links
 ZCZC W08 30 L18 Reviewing peer links
 ZCZC W08 10 L20 Submitting W08 Assignment
-ZCZC W08 10 L19 Updating mylog.txt 
+ZCZC W08 10 L19 Updating mylog.txt
+ZCZC W08 65 L13 Trying previous final term problems
+ZCZC W08 240 L11 Reading chapter 5 
