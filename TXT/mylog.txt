@@ -95,4 +95,10 @@ ZCZC W07 100 L12 Trying Week07 Demos
 ZCZC W07 300 L11 Reading Chapter 6, 7, 8
 ZCZC W08 60 L14 Completing Assignment 4 (Chapter 4)
 ZCZC W08 120 L15 Completing Assignment 5 (Chapter 5)
-ZCZC W08 30 L01 Research and Answering Scele Forum 
+ZCZC W08 30 L01 Research and Answering Scele Forum
+ZCZC W08 110 L02 Monday Zoom Meeting
+ZCZC W08 50 L02 Wednesday Zoom Meeting
+ZCZC W08 30 L16 Updated bookmark links
+ZCZC W08 30 L18 Reviewing peer links
+ZCZC W08 10 L20 Submitting W08 Assignment
+ZCZC W08 10 L19 Updating mylog.txt 
